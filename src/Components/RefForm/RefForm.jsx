@@ -1,7 +1,6 @@
 import { useEffect, useRef } from "react";
 
 const RefForm = () => {
-
     const nameRef = useRef(null);
     const emailRef =useRef(null);
     const passwordRef = useRef(null);
